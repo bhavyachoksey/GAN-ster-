@@ -5,6 +5,7 @@ Team Members:
 3. Krish Mehta mkrish1411@gmail.com
 4. Adit Punamiya aditpunamiya28@gmail.com
 
+Mongodb URI: mongodb+srv://atharvachavan9898:stackitcluster123@stackitcluster.rgaoqmp.mongodb.net/?retryWrites=true&w=majority&appName=stackitcluster
 
 <img width="1491" height="1008" alt="image" src="https://github.com/user-attachments/assets/aba154c4-443f-4d1a-b006-cf2adf00cb2c" />
 
